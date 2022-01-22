@@ -5,7 +5,7 @@ class Footer extends Component {
   render() {
     return (
       <div className="footer">
-        <a
+        {/* <a
           href="https://github.com/shreyshreyansh/Peer-Coder"
           target="_blank"
           rel="noopener noreferrer"
@@ -20,7 +20,7 @@ class Footer extends Component {
           className="right-footer"
         >
           © GitHub community
-        </a>
+        </a> */}
       </div>
     );
   }
